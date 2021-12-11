@@ -1,0 +1,25 @@
+{
+  "name": "psdigital-random-character-name",
+  "version": "1.0.0",
+  "description": "A npm package of example",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopsdigital/psdigital-npm-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pablopsdigital/psdigital-npm-module/issues"
+  },
+  "homepage": "https://github.com/pablopsdigital/psdigital-npm-module#readme"
+}
